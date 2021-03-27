@@ -7,3 +7,5 @@ In the project directory, you can run:
 # To Start the Server
 
 In the project directory, route to src/server and you can run:
+
+### `npm start`
