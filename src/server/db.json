@@ -1,17 +1,6 @@
 {
   "users": [
     {
-      "name": "Sourabh",
-      "dob": "2021-03-19",
-      "address": "Pune, MH",
-      "college": "Indiana University at Bloomington",
-      "hobbies": [
-        "Reading",
-        "BasketBall"
-      ],
-      "id": 1
-    },
-    {
       "name": "Dhiraj",
       "dob": "2021-03-25",
       "address": "Pune",
