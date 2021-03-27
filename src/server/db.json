@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "Sourabh",
+      "dob": "2021-03-19",
+      "address": "Pune, MH",
+      "college": "Indiana University at Bloomington",
+      "hobbies": [
+        "Reading",
+        "BasketBall"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Dhiraj",
+      "dob": "2021-03-25",
+      "address": "Pune",
+      "college": "Indiana Institute of Technology",
+      "hobbies": [
+        "Reading",
+        "Traveling",
+        "Cricket"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Kapil",
+      "dob": "2021-03-28",
+      "address": "Pune",
+      "college": "University of Southern Indiana",
+      "hobbies": [
+        "Drawing",
+        "Reading"
+      ],
+      "id": 3
+    }
+  ]
+}
